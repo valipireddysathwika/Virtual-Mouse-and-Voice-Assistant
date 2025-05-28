@@ -19,41 +19,6 @@ A dual-purpose desktop automation project developed in Python that includes:
 - Executes commands like opening apps, searching Google, system info, etc.
 - Provides voice feedback via pyttsx3.
 
-## 🛠️ Installation
-
-**Clone the repository:**
-```bash
-git clone https://github.com/yourusername/virtual-mouse-voice-assistant.git
-cd virtual-mouse-voice-assistant
-```
-
-**Create a virtual environment (optional but recommended):**
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-**Install dependencies:**
-```bash
-pip install -r requirements.txt
-```
-
-## ▶️ Usage
-
-### Virtual Mouse
-```bash
-python virtual_mouse.py
-```
-- Ensure your webcam is active.
-- Perform hand gestures to move and click.
-
-### Voice Assistant
-```bash
-python voice_assistant.py
-```
-- Speak naturally after the prompt.
-- Ensure microphone access is enabled.
-
 ## 📦 Requirements
 - Python 3.8+
 - macOS (tested on Monterey and later)
@@ -65,12 +30,11 @@ python voice_assistant.py
   - pyobjc (for macOS integrations)
 
 ## 📸 Screenshots
-(Add screenshots or screen recordings demonstrating the project in action.)
+MAIN SCREEN:
+![SCREENSHOT 1](https://github.com/user-attachments/assets/2d6cb99c-41b4-47fe-886e-129c2e0af13e)
 
-## 💡 Future Improvements
-- Add GUI dashboard.
-- Support for other platforms (Windows/Linux).
-- Smarter NLP integration with GPT or other LLMs.
+VIRTUAL MOUSE ACTION:
+![SCREENSHOT 2](https://github.com/user-attachments/assets/5843fabc-c698-4276-aa75-f387db7f5981)
 
-## 📄 License
-MIT License. See LICENSE for more info.
+VOICE ASSISTANT ACTION:
+![SCREENSHOT 3](https://github.com/user-attachments/assets/2964fd11-2fd8-4c5b-bf4d-cbef43bda31f)
