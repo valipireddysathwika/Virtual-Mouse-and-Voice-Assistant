@@ -33,8 +33,10 @@ A dual-purpose desktop automation project developed in Python that includes:
 MAIN SCREEN:
 ![SCREENSHOT 1](https://github.com/user-attachments/assets/2d6cb99c-41b4-47fe-886e-129c2e0af13e)
 
+
 VIRTUAL MOUSE ACTION:
-![SCREENSHOT 2](https://github.com/user-attachments/assets/5843fabc-c698-4276-aa75-f387db7f5981)
+![SCREENSHOT 2](https://github.com/user-attachments/assets/5129679d-98db-4dab-8d5c-853c4267f57f)
+
 
 VOICE ASSISTANT ACTION:
 ![SCREENSHOT 3](https://github.com/user-attachments/assets/2964fd11-2fd8-4c5b-bf4d-cbef43bda31f)
